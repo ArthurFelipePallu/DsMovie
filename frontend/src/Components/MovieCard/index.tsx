@@ -1,4 +1,4 @@
-import MovieScore from 'Components/MovieScore';
+import MovieScore from 'components/MovieScore';
 import { Link } from 'react-router-dom';
 
 
